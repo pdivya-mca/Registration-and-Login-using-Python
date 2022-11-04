@@ -1,0 +1,3 @@
+apple@gmail.com,Apple@1
+Orange@yahoo.in,Orange@123
+green@google.com,Green@1
